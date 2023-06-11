@@ -40,6 +40,6 @@ Aqui, disponibilizo alguns dos códigos gerados a partir de seus exercícios e d
 
 
 ###### Author: Marco Sabatini
-[![version](https://img.shields.io/badge/version-1.0.4-blue)]
+![version](https://img.shields.io/badge/version-1.0.4-blue)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoantoniosabatini/)
 [![Github](http://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/marsabatini)
