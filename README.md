@@ -31,8 +31,15 @@ Recomendo fortemente esse curso, afinal ele aborda uma ampla gama de temas em ma
    - [x] Spring Boot
  
 
-Aqui, disponibilizo os códigos gerados a partir de seus exercícios e desafios realizados ao curso.
+
+Aqui, disponibilizo alguns dos códigos gerados a partir de seus exercícios e desafios.
+
+
+> **Note**: É importante notar ainda que, apesar de ser um curso voltado para Java, diversos outros temas são abordados, como SQL e conceitos relacionados a Web.
+
+
 
 ###### Author: Marco Sabatini
+[version](https://img.shields.io/badge/version-1.0.4-blue)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoantoniosabatini/)
 [![Github](http://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/marsabatini)
